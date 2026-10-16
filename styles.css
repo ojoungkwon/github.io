@@ -8,3 +8,5 @@
 .team-photo{text-align:center}.team-photo img{max-width:100%;height:auto}
 
 .content section.paper-list p{margin:0 0 22px}.paper-list li{margin-bottom:18px}.paper-list a{overflow-wrap:anywhere}
+
+.presentation-list>ul{padding-left:22px}.presentation-list>ul>li{margin-bottom:16px}.presentation-list ul ul{margin-top:6px;padding-left:22px}.presentation-list a{overflow-wrap:anywhere}
