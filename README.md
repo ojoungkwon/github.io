@@ -18,6 +18,8 @@ This is a multi-page academic homepage modeled on the navigation and profile str
 
 Upload the contents of this folder (the HTML files, `styles.css`, and `.nojekyll`) to the top level of the `ojoungkwon.github.io` repository. Keep all HTML pages beside `styles.css`; do not upload the `academic-site` folder as an extra nested folder. GitHub Pages should publish from the `main` branch and `/(root)`.
 
-The homepage and research topics use profile information visible on the existing homepage when this draft was prepared. Please review dates and wording before relying on them. Paper, presentation, teaching, and seminar pages are structured for easy content transfer; where full lists were not retrievable, the page links to the current site and clearly marks the content to add. Replace or remove the transfer notes after copying verified details.
+The homepage and research topics use profile information visible on the existing homepage when this draft was prepared. Please review dates and wording before relying on them. Presentation, teaching, and seminar pages are structured for easy content transfer; where full lists were not retrievable, the page links to the current site and clearly marks the content to add. Replace or remove the transfer notes after copying verified details.
 
 The research team page includes the original member details, student papers, presentation photos, and undergraduate recruitment notice copied from `http://ojkwon.com/research-team/` on 2026-10-16. Photos are stored locally in `assets/images/`.
+
+The papers page includes the complete publication list and original links copied from `http://ojkwon.com/papers/` on 2026-10-16.

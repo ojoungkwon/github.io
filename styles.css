@@ -6,3 +6,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
 .team-photo{text-align:center}.team-photo img{max-width:100%;height:auto}
+
+.content section.paper-list p{margin:0 0 22px}.paper-list li{margin-bottom:18px}.paper-list a{overflow-wrap:anywhere}
