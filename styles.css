@@ -4,3 +4,5 @@
 @media(max-width:800px){.site-layout{display:block;padding:28px 24px}.sidebar{position:static;padding-bottom:22px;margin-bottom:28px;border-bottom:1px solid var(--line)}.affiliation{margin:8px 0 18px}.sidebar nav{flex-direction:row;flex-wrap:wrap;gap:4px 8px}.sidebar nav a{padding:6px 8px;border-left:0;border-bottom:2px solid transparent}.sidebar nav a:hover,.sidebar nav a[aria-current=page]{border-bottom-color:var(--accent)}.sidebar-foot{display:none}.content{max-width:none}h1{font-size:38px}}
 @media(max-width:520px){.site-layout{padding:22px 18px}.site-name{font-size:23px}.site-name span{font-size:16px}.topic-grid{grid-template-columns:1fr}.lead{font-size:18px}.content footer{flex-wrap:wrap}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+.team-photo{text-align:center}.team-photo img{max-width:100%;height:auto}
