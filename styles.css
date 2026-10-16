@@ -10,3 +10,5 @@
 .content section.paper-list p{margin:0 0 22px}.paper-list li{margin-bottom:18px}.paper-list a{overflow-wrap:anywhere}
 
 .presentation-list>ul{padding-left:22px}.presentation-list>ul>li{margin-bottom:16px}.presentation-list ul ul{margin-top:6px;padding-left:22px}.presentation-list a{overflow-wrap:anywhere}
+
+.seminar-event h2{font-size:21px}.seminar-text{overflow-wrap:anywhere}.content .seminar-text p{margin:10px 0}
